@@ -1,0 +1,5 @@
+.user {
+    display: grid;
+    grid-template-columns: 15px 1fr;
+    gap: 5px;
+}
